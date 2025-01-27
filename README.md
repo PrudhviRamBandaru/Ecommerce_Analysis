@@ -83,7 +83,7 @@ To run this project locally, please follow these steps:
 
 1. **Clone this repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/PrudhviRamBandaru/Ecommerce_Analysis/
     ```
 
 2. **Install required libraries:**
